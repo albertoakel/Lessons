@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao **Lessons** — um repositório com **aulas, tutoriais e materiais de estudo** voltado ao **aprendizado contínuo** e à **partilha de conhecimento** de forma acessível, reprodutível e colaborativa.
 
-> 🧠 O nome **Lessons** é inspirado no clássico *The Feynman Lectures on Physics*, como um tributo ao espírito claro, curioso e acessível do ensino de Richard Feynman.
+> 🧠 O nome **Lessons** é inspirado no clássico *The Feynman Lectures on Physics*. 
 
 ## 🎯 Objetivo
 
