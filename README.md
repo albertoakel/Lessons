@@ -37,3 +37,14 @@ lessons/
 ├── sandbox/
 ├── README.md             # Este documento
 └── requirements.txt      # Dependências do projeto
+```
+
+
+## 📝 Licença
+
+Distribuído sob a [Licença MIT](LICENSE).  
+Sinta-se livre para usar, adaptar e compartilhar com os devidos créditos.
+
+---
+
+**Explore, contribua e aprenda com clareza ** 🚀  
