@@ -1,4 +1,4 @@
-# 📚 Lessons – Espaço de Aprendizado Modular
+# 📚 Lessons 
 
 Bem-vindo(a) ao **Lessons** — um repositório com **aulas, tutoriais e materiais de estudo** voltado ao **aprendizado contínuo** e à **partilha de conhecimento** de forma acessível, reprodutível e colaborativa.
 
@@ -18,7 +18,7 @@ Ideal para:
 - 👩‍🏫 Professores que desejam exemplos e exercícios para suas aulas  
 - 📖 Autodidatas explorando novas áreas do conhecimento
 
-## 🧩 Conteúdo do Repositório
+## 🧩 Conteúdo do Repositório 
 
 Os materiais são organizados por módulos e podem incluir:
 - Tutoriais com exemplos práticos (Jupyter, scripts, etc.)
